@@ -1,0 +1,10 @@
+C:\Users\anyone\source\repos\From1ni\From1ni\bin\Debug\From1ni.exe.config
+C:\Users\anyone\source\repos\From1ni\From1ni\bin\Debug\From1ni.exe
+C:\Users\anyone\source\repos\From1ni\From1ni\bin\Debug\From1ni.pdb
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.csproj.AssemblyReference.cache
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.Form1.resources
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.Properties.Resources.resources
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.csproj.GenerateResource.cache
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.csproj.CoreCompileInputs.cache
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.exe
+C:\Users\anyone\source\repos\From1ni\From1ni\obj\Debug\From1ni.pdb
